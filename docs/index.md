@@ -2,7 +2,7 @@
 
 Introducing Increasy, the world's first smart glasses for children, with a cool design!
 
-![Increasy glasses](IncreasyShades.png)
+![Increasy glasses](Increasy.png)
 
 This pair of smart glasses, will change how your child learn, study, and more! 
 
