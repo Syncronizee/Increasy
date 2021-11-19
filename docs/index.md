@@ -10,5 +10,5 @@ This pair of smart glasses, will change how your child learn, study, and more!
 
 ### Myopic support
 
-Our smart glasses has special support for children with eye problems like myopic. With our technology, we can help keep the eye balanced and the myopic level will stay the same. 
-
+Our smart glasses has special support lenses for children with eye problems like myopic. With our technology, we can help keep the eye balanced and the myopic level will stay the same. 
+###### Not included with base model
