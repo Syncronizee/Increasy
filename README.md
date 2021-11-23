@@ -1,6 +1,1 @@
-HELLO 
-*YOU ARE SUS*
-# Features
-
-
-## DON't BE SUS
+this was actually made for a school project
